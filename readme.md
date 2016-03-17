@@ -97,7 +97,7 @@
 
 > 从图库分享图片到搜索引擎中搜索，支持Google、百度、iqdb等图片搜索引擎。
 >
-> 应用可在Google Play与酷安网  http://coolapk.com/apk/rikka.searchbyimage下载 ，在GitHub上查看源码。
+> 应用可在Google Play与酷安网  http://coolapk.com/apk/rikka.searchbyimage 下载 ，在GitHub上查看源码。
 
 项目协作者，应用在Google Play安装量超过5000，在Coolapk安装量超过10万。评分均大于4.6。Google Material Design Award 2016参与评选。
 
